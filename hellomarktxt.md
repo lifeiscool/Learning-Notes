@@ -6,7 +6,7 @@
 
 主要参考：[官方API](https://www.appinn.com/markdown/#list)、[凌云之翼](https://www.cnblogs.com/liugang-vip/p/6337580.html)、[最实用的markdown教程](https://www.jianshu.com/p/f3147a804368)
 
-> 写在前面：
+> **写在前面：**
 > 
 > * 很久之前就想学习markdown，简直就是做笔记、整理学习知识         点的利器。所写即所得省去了很多排版的时间，特别是对于程序员，简单的Syntax用几次就习惯了。
 > 
@@ -196,10 +196,12 @@
 
 最后一个，\\加其他字符表示输出字符本身。比如刚刚那个\\就是在markdown syntax下连着写了两个\\实现的：`\\`
 
-#### 写在最后：
 
-基本语法已经熟悉了一遍，想要学会一门语法最直接的办法就是利用它做些事情，任务驱动的学习方式是比较有效的。就比如我用刚学的markdown语法跌跌撞撞写了这篇笔记。 更多学习笔记请移步[lifeiscool](https://github.com/lifeiscool/Learning-Notes)。
 
+> **写在最后：**
+> 
+> 基本语法已经熟悉了一遍，想要学会一门语法最直接的办法就是利用它做些事情，任务驱动的学习方式是比较有效的。就比如我用刚学的markdown语法跌跌撞撞写了这篇笔记。 更多学习笔记请移步[lifeiscool](https://github.com/lifeiscool/Learning-Notes)。
+> 
 > 立个flag：
 > 
 > 1. 以这篇笔记作为开始写一个《跳出舒适圈，学习那些事半功倍但一直不想学的工具》系列。
